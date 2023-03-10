@@ -1,6 +1,6 @@
-<img align='right' src="https://media3.giphy.com/media/sL00sB0pH5oVaQclLc/giphy.gif" width="310" display="block">
+<img align='right' src="https://media3.giphy.com/media/sL00sB0pH5oVaQclLc/giphy.gif" width="310" >
 
-<h1 display="block"> Hi, I'm Damián Piñones 🤠</h1>
+<h1> Hi, I'm Damián Piñones 🤠</h1>
   
 </p>- 🚀 Contributing to open source projects</p>
 
