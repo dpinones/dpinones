@@ -6,7 +6,21 @@
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/dpinoness?style=social)](https://twitter.com/dpinoness)
 [![GitHub Thaiane](https://img.shields.io/github/followers/dpinones?label=follow&style=social)](https://github.com/dpinones)
-  
+
+## 🏆 Achievements 🏅
+
+📅 12/2023 🥈 2nd at Dojo Game Jam #3 🏷️ [Starkane](https://github.com/amegakure-starknet/starkane)
+
+📅 11/2023 🏅 Finalist at Starknet Hacker House 📍 Istanbul 🏷️ [VAUTT](https://github.com/Koomuna-Labs)
+
+📅 10/2023 🏆 Competitor at Dojo Game Jam #1 🏷️ [Wordle](https://github.com/dpinones/wordle-dojo)
+
+📅 06/2023 🏆 Competitor at Pragma Hackathon #1 🏷️ [MechaStark](https://github.com/MechaStark-RPG/mecha-stark-contract)
+
+📅 10/2022 🥇 1st at Gaming MatchBoxDao Hackathon #2 🏷️ [PathfindersAr](https://github.com/dpinones/pathfinders-ar)
+
+📅 07/2022 🏆 Competitor at Topology Hackathon #1 🏷️ [StarknerForms](https://github.com/nicon44/starknet-forms)
+
 <h2> 📈 GitHub Stats </h2>
 
 |<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dpinones&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="Dpinones GitHub Stats" /></a>| <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpinones&layout=compact&hide=java,html,tex,vue,javascript&theme=tokyonight&langs_count=3&hide_border=true" /> </a>|
