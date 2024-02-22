@@ -11,7 +11,7 @@
 
 📅 02/2024 🥉 3rd at Starknet Winter Hackathon 🏷️ [Verdania](https://github.com/amegakure-studio/verdania-cairo)
 
-📅 02/2024 🥈 2nd at ETH 5 de Mayo Hackathon 🏷️ [Paymeez](https://github.com/dbejarano820/eth-cdm-hackathon)
+📅 02/2024 🥈 2nd at ETH 5 de Mayo Hackathon 📍 México 🏷️ [Paymeez](https://github.com/dbejarano820/eth-cdm-hackathon)
 
 📅 12/2023 🥈 2nd at Dojo Game Jam #3 🏷️ [Starkane](https://github.com/amegakure-studio/starkane)
 
