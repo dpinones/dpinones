@@ -11,7 +11,7 @@
 
 📅 01/2025 🥇 1st at Starknet Winter Hackathon 2025 🏷️ [Jokers of Neon Mods](https://github.com/caravana-studio/jokers-of-neon-mods)
 
-📅 11/2024 🥇 1st at Dojo Spooky Game Jam 🏷️ [JON x Loor Survivor Mod](https://github.com/caravana-studio/jokers-ls-mod-contracts)
+📅 11/2024 🥇 1st at Dojo Spooky Game Jam 🏷️ [JON x Loot Survivor Mod](https://github.com/caravana-studio/jokers-ls-mod-contracts)
 
 📅 02/2024 🥉 3rd at Starknet Winter Hackathon 🏷️ [Verdania](https://github.com/amegakure-studio/verdania-cairo)
 
