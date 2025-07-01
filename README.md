@@ -9,6 +9,10 @@
 
 ## 🏆 Achievements 🏅
 
+📅 06/2025 🥈 2nd at Dojo Vibe Jam 🏷️ [Panda Panda](https://github.com/dpinones/panda-panda)
+
+📅 4/2025 🏆 Competitor at NoirHack 🏷️ [Hunting the Wolf](https://github.com/dpinones/hunting-the-wolf-dojo-noir)
+
 📅 01/2025 🥇 1st at Starknet Winter Hackathon 2025 🏷️ [Jokers of Neon Mods](https://github.com/caravana-studio/jokers-of-neon-mods)
 
 📅 11/2024 🥇 1st at Dojo Spooky Game Jam 🏷️ [JON x Loot Survivor Mod](https://github.com/caravana-studio/jokers-ls-mod-contracts)
