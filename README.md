@@ -9,6 +9,10 @@
 
 ## 🏆 Achievements 🏅
 
+📅 12/2025 🥉 3rd at Zypherpunk Hackathon 🏷️ [Liars Proof](https://github.com/dubzn/liars-proof)
+
+📅 10/2025 🥇 1st at Dojo Game Jam 🏷️ [Kanoodle Fusion](https://github.com/dpinones/kanoodle-fusion)
+
 📅 06/2025 🥈 2nd at Dojo Vibe Jam 🏷️ [Panda Panda](https://github.com/dpinones/panda-panda)
 
 📅 4/2025 🏆 Competitor at NoirHack 🏷️ [Hunting the Wolf](https://github.com/dpinones/hunting-the-wolf-dojo-noir)
